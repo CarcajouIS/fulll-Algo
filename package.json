@@ -1,0 +1,20 @@
+{
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/node": "^20.12.12",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
+  },
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
